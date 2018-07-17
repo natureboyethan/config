@@ -1,6 +1,6 @@
 maxgputemp 85
 stratumproxy miner
-proxywallet 0x0bdC4F12fB57d3acA9C3cF72B7AA2789A20d27f2
+proxywallet 0x0B2F5c64929ED4CACB4FBb2510811821a5Cc0670
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
