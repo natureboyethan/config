@@ -1,0 +1,19 @@
+globalminer ethminer
+maxgputemp 90
+stratumproxy enabled
+proxywallet 0x0B2F5c64929ED4CACB4FBb2510811821a5Cc0670
+proxypool1 us1.ethermine.org:4444
+proxypool2 us2.ethermine.org:4444
+# poolpass1 x
+# poolpass2 x
+poolemail marcelo.ncsu@gmail.com
+flags --cl-global-work 8192 --farm-recheck 200
+globalcore 1900
+globalmem 4300
+globalfan 90
+globalpowertune 105
+autoreboot 3
+custompanel 123456123456
+lockscreen enabled
+globaldesktop enabled
+globalname devrig
