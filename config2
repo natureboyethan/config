@@ -10,3 +10,5 @@ poolemail marcelo.ncsu@gmail.com
 flags --cl-global-work 8192 --farm-recheck 200
 custompanel 123456123456
 globalmem 2000
+
+loc c94a54 AMD19
