@@ -8,7 +8,7 @@ proxypool2 us2.ethermine.org:4444
 # poolpass2 x
 poolemail marcelo.ncsu@gmail.com
 flags --cl-global-work 8192 --farm-recheck 200
-custompanel 123456123456
+custompanel ethana123456
 globalmem 2000
 globalcor 1130
 
